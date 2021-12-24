@@ -2,7 +2,7 @@
 
 
 
-![iuri195325 GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![iuri195325 GitHub stats](https://github-readme-stats.vercel.app/api?username=iuri195325&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu tenho mais afinidade
 
